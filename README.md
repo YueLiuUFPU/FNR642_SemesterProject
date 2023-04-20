@@ -1,4 +1,4 @@
-# FNR642_SemesterProject
+# FNR642_SemesterProjectYue
 
 This is a GitHub repo for Yue Liu's FNR 642 semester project
 
